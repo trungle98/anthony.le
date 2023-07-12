@@ -1,0 +1,12 @@
+user.name=trungle
+user.email=trungle98hn@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:trungle98/comp-science.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.gh-pages.remote=origin
+branch.gh-pages.merge=refs/heads/gh-pages
