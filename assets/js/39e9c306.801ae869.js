@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanthony_website=self.webpackChunkanthony_website||[]).push([[8844],{8193:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/comp-science/blog/tags/hola","allTagsPath":"/comp-science/blog/tags","count":1}')}}]);
